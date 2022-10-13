@@ -66,3 +66,12 @@
 	width: 55%;
 	border: none;
 }
+.btn-add {
+	background-color: rgb(28, 189, 135);
+	/* display: flex; */
+	color: #ccc;
+	margin-top: 72px;
+	height: 48px;
+	width: 20%;
+	border: none;
+}

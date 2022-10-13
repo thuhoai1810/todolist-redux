@@ -1,4 +1,3 @@
-import React from "react";
 import { useState } from "react";
 import { nanoid } from "nanoid";
 import { addTodo } from "../redux/todoSlice";
